@@ -48,7 +48,7 @@ Clone this repository to your local machine, navigate to the project directory, 
 
 bash
 
-git clone https://github.com/garvkhurana/code-soft.git
+git clone https://github.com/garvkhurana/titanic-survival-predciction .git
 cd titanic-survival-prediction
 jupyter notebook titanic_survival_prediction.ipynb
 
